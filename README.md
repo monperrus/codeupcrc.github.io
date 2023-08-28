@@ -6,7 +6,7 @@ The full data is available here: [TODO]()
 
 ### Data by Research Questions
 
-RQ1. How often do reviewers ask for code understandability improvements in code review comments? (TODO)
+[RQ1. How often do reviewers ask for code understandability improvements in code review comments?](RQ1.md)
 
 [RQ2. What are the main issues pertaining to code understandability in code review?](RQ2.md)
 

@@ -2,6 +2,8 @@
 
 This repository contains the CODE-UP (Code Understandability Improvement Dataset) and the artifacts of the findings by evaluate this dataset.
 
+List of selected projects: [projects.md](projects.md)
+
 The full data is available here: [dataset.tsv](csv/dataset.tsv)
 
 ### Data by Research Questions

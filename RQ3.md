@@ -4,7 +4,7 @@
 - [Code Review Comments related Code Understandability (Presence)](#code-review-comments-related-code-understandability)
 - [Code Review Comments unrelated Code Understandability (Absence)](#code-review-comments-unrelated-code-understandability)
 
-### Code Review Comments related Code Understandability 
+### Code Review Comments related Code Understandability
 | # | Reaction | What                                             | Comment | ID (Link) |
 |---|----------|--------------------------------------------------|---------|-----------|
 |1|Accepted|Bad identifier|Maybe parseOrigin is better?|[MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDQ0MTMyMTU1Nw==](https://delanohelio.github.io/code_reviews/inlineReviewPagePilot.html?json=https://delanohelio.github.io/code_reviews/alibaba_sentinel/pr_1555.json&inline=MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDQ0MTMyMTU1Nw==)|
@@ -308,7 +308,7 @@
 |299|Not Accepted|Wrong, missing, or inadequate string expression or literal|could we setBody to something else? I don't really understand what the string here means... maybe something straightforward such as "new body text"?|[MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDQ2MjM1OTQ3Mg==](https://delanohelio.github.io/code_reviews/inlineReviewPagePilot.html?json=https://delanohelio.github.io/code_reviews/googleapis_java-bigquery/pr_618.json&inline=MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDQ2MjM1OTQ3Mg==)|
 |300|Not Accepted|Wrong, missing, or inadequate string expression or literal|@Name shouldn't have Is .|[MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDQ4MzM1MDEyNA==](https://delanohelio.github.io/code_reviews/inlineReviewPagePilot.html?json=https://delanohelio.github.io/code_reviews/skriptlang_skript/pr_3362.json&inline=MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDQ4MzM1MDEyNA==)|
 
-### Code Review Comments unrelated Code Understandability (Absence)
+### Code Review Comments unrelated Code Understandability
 | # | Reaction | Patch Commit                             | Comment | ID (Link) |
 |---|----------|------------------------------------------|---------|-----------|
 |1|Accepted| 14e42ba9cb98baee1508a50a7d1109a2428bacda |I am not sure it is a good idea the different modes and throw exceptions that some of them are not supported/implemented. We are heading to the next m...|[MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDUxMDEyNDk1Ng==](https://delanohelio.github.io/code_reviews/inlineReviewPageV2.html?json=https://delanohelio.github.io/code_reviews/apache_parquet-mr/pr_819.json&inline=MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDUxMDEyNDk1Ng==)|

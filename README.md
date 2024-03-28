@@ -14,7 +14,7 @@ The full data is available here: [dataset.tsv](csv/dataset.tsv)
 
 [RQ2. What are the main issues pertaining to code understandability in code review?](RQ2.md)
 
-[RQ3. How do developers react to understandability improvement comments in code reviews?](RQ3.md)
+[RQ3. How likely are understandability improvement comments to be accepted?](RQ3.md)
 
 [RQ4. What code changes are found in understandability improvements?](RQ4.md)
 

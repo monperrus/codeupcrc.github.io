@@ -10,7 +10,7 @@ The full data is available here: [dataset.tsv](csv/dataset.tsv)
 
 [RQ1. How often do reviewers ask for code understandability improvements in code review comments?](RQ1.md)
 
-* [A classification of comments related to understandability, distinguishing between implicit and explicit comments. Additionally, a description of why each code review comment relates to understanding.](RQ1_subsample.md)-
+* [A classification of comments related to understandability, distinguishing between implicit and explicit comments. Additionally, a description of why each code review comment relates to understanding.](RQ1_subsample.md)
 
 [RQ2. What are the main issues pertaining to code understandability in code review?](RQ2.md)
 

@@ -21,7 +21,7 @@
       "project": "akvo/akvo-flow",
       "pr_number": 3532,
       "id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDQxMjE1ODU2OA==",
-      "deep_analysis": false
+      "deep_analysis": true
    },
    "5": {
       "project": "akvo/akvo-flow",
@@ -81,7 +81,7 @@
       "project": "alibaba/nacos",
       "pr_number": 2304,
       "id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDM2NjIzMDU3MQ==",
-      "deep_analysis": false
+      "deep_analysis": true
    },
    "15": {
       "project": "alibaba/sentinel",
@@ -159,7 +159,7 @@
       "project": "all-of-us/workbench",
       "pr_number": 3333,
       "id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDQwNjkzMDYyMA==",
-      "deep_analysis": false
+      "deep_analysis": true
    },
    "28": {
       "project": "all-of-us/workbench",
@@ -213,7 +213,7 @@
       "project": "alluxio/alluxio",
       "pr_number": 11112,
       "id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDM4OTA5OTE0MA==",
-      "deep_analysis": false
+      "deep_analysis": true
    },
    "37": {
       "project": "alluxio/alluxio",
@@ -237,7 +237,7 @@
       "project": "ankidroid/anki-android",
       "pr_number": 6766,
       "id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDQ2MjQxMTI4Ng==",
-      "deep_analysis": false
+      "deep_analysis": true
    },
    "41": {
       "project": "ankidroid/anki-android",
@@ -381,7 +381,7 @@
       "project": "apache/activemq-artemis",
       "pr_number": 3129,
       "id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDQyNDQyNjYwNg==",
-      "deep_analysis": false
+      "deep_analysis": true
    },
    "65": {
       "project": "apache/activemq-artemis",
@@ -765,7 +765,7 @@
       "project": "apache/fineract",
       "pr_number": 1050,
       "id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDQzOTcyMjQ2Ng==",
-      "deep_analysis": false
+      "deep_analysis": true
    },
    "129": {
       "project": "apache/fineract",
@@ -993,7 +993,7 @@
       "project": "apache/helix",
       "pr_number": 827,
       "id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDM4NTQyODA4OA==",
-      "deep_analysis": false
+      "deep_analysis": true
    },
    "167": {
       "project": "apache/helix",
@@ -1179,7 +1179,7 @@
       "project": "apache/ignite",
       "pr_number": 7412,
       "id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDM3ODExNDM5Nw==",
-      "deep_analysis": false
+      "deep_analysis": true
    },
    "198": {
       "project": "apache/incubator-doris",
@@ -1263,7 +1263,7 @@
       "project": "apache/jena",
       "pr_number": 870,
       "id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDUzMzYyMjczMA==",
-      "deep_analysis": false
+      "deep_analysis": true
    },
    "212": {
       "project": "apache/jena",
@@ -1461,7 +1461,7 @@
       "project": "apache/nifi",
       "pr_number": 4700,
       "id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDUzNDQ1OTkzOQ==",
-      "deep_analysis": false
+      "deep_analysis": true
    },
    "245": {
       "project": "apache/nifi",
@@ -1593,7 +1593,7 @@
       "project": "apache/phoenix",
       "pr_number": 913,
       "id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDUzOTY0OTUxMg==",
-      "deep_analysis": false
+      "deep_analysis": true
    },
    "267": {
       "project": "apache/phoenix",
@@ -1629,7 +1629,7 @@
       "project": "apache/pinot",
       "pr_number": 5513,
       "id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDQzNzAwODQzMA==",
-      "deep_analysis": false
+      "deep_analysis": true
    },
    "273": {
       "project": "apache/pinot",
@@ -1659,7 +1659,7 @@
       "project": "apache/pinot",
       "pr_number": 4988,
       "id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDM2NzYyMjcwNg==",
-      "deep_analysis": false
+      "deep_analysis": true
    },
    "278": {
       "project": "apache/pulsar",
@@ -1677,7 +1677,7 @@
       "project": "apache/pulsar",
       "pr_number": 8422,
       "id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDUzMjcxODAyNg==",
-      "deep_analysis": false
+      "deep_analysis": true
    },
    "281": {
       "project": "apache/pulsar",
@@ -2277,7 +2277,7 @@
       "project": "aws-greengrass/aws-greengrass-nucleus",
       "pr_number": 52,
       "id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDM3NDkzMjg4Mw==",
-      "deep_analysis": false
+      "deep_analysis": true
    },
    "381": {
       "project": "aws/aws-sdk-java-v2",
@@ -2331,7 +2331,7 @@
       "project": "awslabs/smithy",
       "pr_number": 397,
       "id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDQxNDIyMzEzNQ==",
-      "deep_analysis": false
+      "deep_analysis": true
    },
    "390": {
       "project": "awslabs/smithy",
@@ -2565,7 +2565,7 @@
       "project": "azure/azure-sdk-for-android",
       "pr_number": 242,
       "id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDQzODM5MDA5MQ==",
-      "deep_analysis": false
+      "deep_analysis": true
    },
    "429": {
       "project": "azure/azure-sdk-for-android",
@@ -2739,7 +2739,7 @@
       "project": "b2ihealthcare/snow-owl",
       "pr_number": 558,
       "id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDQzODk2OTI0MA==",
-      "deep_analysis": false
+      "deep_analysis": true
    },
    "458": {
       "project": "b2ihealthcare/snow-owl",
@@ -2865,7 +2865,7 @@
       "project": "blackducksoftware/blackduck-alert",
       "pr_number": 993,
       "id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDQzMDY0NjgxOA==",
-      "deep_analysis": false
+      "deep_analysis": true
    },
    "479": {
       "project": "blackducksoftware/blackduck-alert",
@@ -2937,7 +2937,7 @@
       "project": "bndtools/bnd",
       "pr_number": 4165,
       "id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDQ0MDM2MTM0MQ==",
-      "deep_analysis": false
+      "deep_analysis": true
    },
    "491": {
       "project": "bndtools/bnd",
@@ -3045,13 +3045,13 @@
       "project": "camunda-cloud/zeebe",
       "pr_number": 5893,
       "id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDUyODcxMjE0MA==",
-      "deep_analysis": false
+      "deep_analysis": true
    },
    "509": {
       "project": "camunda-cloud/zeebe",
       "pr_number": 5535,
       "id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDUwMzY4NzY1MA==",
-      "deep_analysis": false
+      "deep_analysis": true
    },
    "510": {
       "project": "camunda-cloud/zeebe",
@@ -3861,7 +3861,7 @@
       "project": "cryostatio/cryostat",
       "pr_number": 206,
       "id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDQ1NDY2MDQ2OA==",
-      "deep_analysis": false
+      "deep_analysis": true
    },
    "645": {
       "project": "cryostatio/cryostat",
@@ -4221,7 +4221,7 @@
       "project": "dotcms/core",
       "pr_number": 17962,
       "id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDM3OTUxNTQyNg==",
-      "deep_analysis": false
+      "deep_analysis": true
    },
    "705": {
       "project": "dotcms/core",
@@ -4521,13 +4521,13 @@
       "project": "eclipse/eclipse-collections",
       "pr_number": 996,
       "id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDQ4MzkxMTg3Ng==",
-      "deep_analysis": false
+      "deep_analysis": true
    },
    "755": {
       "project": "eclipse/eclipse-collections",
       "pr_number": 981,
       "id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDQ3NDI2MTMzMg==",
-      "deep_analysis": false
+      "deep_analysis": true
    },
    "756": {
       "project": "eclipse/eclipse-collections",
@@ -4677,7 +4677,7 @@
       "project": "eclipse/jkube",
       "pr_number": 45,
       "id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDM2NjUyMjkzNA==",
-      "deep_analysis": false
+      "deep_analysis": true
    },
    "781": {
       "project": "eclipse/kapua",
@@ -4815,7 +4815,7 @@
       "project": "eclipse/xtext-core",
       "pr_number": 1423,
       "id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDM5NTYzOTA4OA==",
-      "deep_analysis": false
+      "deep_analysis": true
    },
    "804": {
       "project": "eclipse/xtext-core",
@@ -4941,7 +4941,7 @@
       "project": "elastic/apm-agent-java",
       "pr_number": 1169,
       "id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDQxOTk0NzE5Mw==",
-      "deep_analysis": false
+      "deep_analysis": true
    },
    "825": {
       "project": "elastic/apm-agent-java",
@@ -5157,7 +5157,7 @@
       "project": "expediagroup/circus-train",
       "pr_number": 175,
       "id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDM5MjI4NDY2Mg==",
-      "deep_analysis": false
+      "deep_analysis": true
    },
    "861": {
       "project": "expediagroup/circus-train",
@@ -5187,7 +5187,7 @@
       "project": "fabric8io/kubernetes-client",
       "pr_number": 2661,
       "id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDU0MzM0MDI5NA==",
-      "deep_analysis": false
+      "deep_analysis": true
    },
    "866": {
       "project": "fabric8io/kubernetes-client",
@@ -5409,7 +5409,7 @@
       "project": "fcrepo/fcrepo",
       "pr_number": 1786,
       "id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDUxODAxOTIxOQ==",
-      "deep_analysis": false
+      "deep_analysis": true
    },
    "903": {
       "project": "fcrepo/fcrepo",
@@ -5553,7 +5553,7 @@
       "project": "flutter/flutter-intellij",
       "pr_number": 5011,
       "id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDUxNDYyNzM4Mw==",
-      "deep_analysis": false
+      "deep_analysis": true
    },
    "927": {
       "project": "folio-org/okapi",
@@ -5781,7 +5781,7 @@
       "project": "geonetwork/core-geonetwork",
       "pr_number": 4633,
       "id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDQxNDQ5NDcyNg==",
-      "deep_analysis": false
+      "deep_analysis": true
    },
    "965": {
       "project": "geoserver/geoserver",
@@ -6237,7 +6237,7 @@
       "project": "googlecloudplatform/cloud-opensource-java",
       "pr_number": 1535,
       "id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDQ1NzUzMzkwNA==",
-      "deep_analysis": false
+      "deep_analysis": true
    },
    "1041": {
       "project": "googlecloudplatform/cloud-opensource-java",
@@ -6303,7 +6303,7 @@
       "project": "googlecontainertools/jib",
       "pr_number": 2584,
       "id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDQ1NDQyNjY1Mw==",
-      "deep_analysis": false
+      "deep_analysis": true
    },
    "1052": {
       "project": "graphhopper/graphhopper",
@@ -6351,7 +6351,7 @@
       "project": "graphql-java/graphql-java",
       "pr_number": 1859,
       "id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDQyNzA5NzQxMg==",
-      "deep_analysis": false
+      "deep_analysis": true
    },
    "1060": {
       "project": "graphql-java/graphql-java",
@@ -6495,7 +6495,7 @@
       "project": "h2database/h2database",
       "pr_number": 2644,
       "id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDQyOTU0OTg0OA==",
-      "deep_analysis": false
+      "deep_analysis": true
    },
    "1084": {
       "project": "h2database/h2database",
@@ -6603,7 +6603,7 @@
       "project": "hartwigmedical/pipeline5",
       "pr_number": 190,
       "id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDQ4MjE3MjQyOA==",
-      "deep_analysis": false
+      "deep_analysis": true
    },
    "1102": {
       "project": "hartwigmedical/pipeline5",
@@ -6657,7 +6657,7 @@
       "project": "hashgraph/hedera-mirror-node",
       "pr_number": 639,
       "id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDQwMTc1Mjk1OA==",
-      "deep_analysis": false
+      "deep_analysis": true
    },
    "1111": {
       "project": "hashgraph/hedera-mirror-node",
@@ -6909,7 +6909,7 @@
       "project": "hyperledger/besu",
       "pr_number": 1708,
       "id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDU1MTcwMDU1NA==",
-      "deep_analysis": false
+      "deep_analysis": true
    },
    "1153": {
       "project": "hyperledger/besu",
@@ -7881,7 +7881,7 @@
       "project": "kiegroup/jbpm",
       "pr_number": 1740,
       "id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDQ3NzMyNzc4MA==",
-      "deep_analysis": false
+      "deep_analysis": true
    },
    "1315": {
       "project": "kiegroup/jbpm",
@@ -8091,7 +8091,7 @@
       "project": "kitodo/kitodo-production",
       "pr_number": 3858,
       "id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDQ2MjgyMjIyMA==",
-      "deep_analysis": false
+      "deep_analysis": true
    },
    "1350": {
       "project": "kitodo/kitodo-production",
@@ -8217,7 +8217,7 @@
       "project": "ldtteam/minecolonies",
       "pr_number": 4651,
       "id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDQxMDA2OTUyNA==",
-      "deep_analysis": false
+      "deep_analysis": true
    },
    "1371": {
       "project": "ldtteam/minecolonies",
@@ -8463,7 +8463,7 @@
       "project": "linkedin/rest.li",
       "pr_number": 414,
       "id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDQ4Njg2ODg2MA==",
-      "deep_analysis": false
+      "deep_analysis": true
    },
    "1412": {
       "project": "linkedin/rest.li",
@@ -8511,7 +8511,7 @@
       "project": "ls1intum/artemis",
       "pr_number": 1581,
       "id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDQzNjM0NzQ5Mw==",
-      "deep_analysis": false
+      "deep_analysis": true
    },
    "1420": {
       "project": "ls1intum/artemis",
@@ -8649,19 +8649,19 @@
       "project": "megamek/megamek",
       "pr_number": 2482,
       "id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDUzNjkwOTcyMQ==",
-      "deep_analysis": false
+      "deep_analysis": true
    },
    "1443": {
       "project": "megamek/megamek",
       "pr_number": 2334,
       "id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDUwNzIxNDg0Mg==",
-      "deep_analysis": false
+      "deep_analysis": true
    },
    "1444": {
       "project": "megamek/megamek",
       "pr_number": 2202,
       "id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDQ4NzIzNTE0NQ==",
-      "deep_analysis": true
+      "deep_analysis": false
    },
    "1445": {
       "project": "megamek/megamek",
@@ -8691,13 +8691,13 @@
       "project": "megamek/mekhq",
       "pr_number": 2224,
       "id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDUyMzE5MzEzNA==",
-      "deep_analysis": false
+      "deep_analysis": true
    },
    "1450": {
       "project": "megamek/mekhq",
       "pr_number": 2167,
       "id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDUxMzA0ODY4NQ==",
-      "deep_analysis": false
+      "deep_analysis": true
    },
    "1451": {
       "project": "megamek/mekhq",
@@ -8901,7 +8901,7 @@
       "project": "minecraftforge/minecraftforge",
       "pr_number": 7427,
       "id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDUxNjAxNDY2OA==",
-      "deep_analysis": false
+      "deep_analysis": true
    },
    "1485": {
       "project": "minecraftforge/minecraftforge",
@@ -8979,7 +8979,7 @@
       "project": "movingblocks/terasology",
       "pr_number": 3942,
       "id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDQyMjU0MDU5Ng==",
-      "deep_analysis": false
+      "deep_analysis": true
    },
    "1498": {
       "project": "movingblocks/terasology",
@@ -9177,7 +9177,7 @@
       "project": "netflix/titus-control-plane",
       "pr_number": 889,
       "id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDQ2MzE2MDYwOQ==",
-      "deep_analysis": false
+      "deep_analysis": true
    },
    "1531": {
       "project": "netflix/titus-control-plane",
@@ -9447,7 +9447,7 @@
       "project": "onesignal/onesignal-android-sdk",
       "pr_number": 1063,
       "id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDQzODc5ODU0OA==",
-      "deep_analysis": false
+      "deep_analysis": true
    },
    "1576": {
       "project": "onesignal/onesignal-android-sdk",
@@ -9513,7 +9513,7 @@
       "project": "open-telemetry/opentelemetry-java-instrumentation",
       "pr_number": 1509,
       "id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDUxNDA0OTQxNA==",
-      "deep_analysis": false
+      "deep_analysis": true
    },
    "1587": {
       "project": "open-telemetry/opentelemetry-java-instrumentation",
@@ -9645,7 +9645,7 @@
       "project": "opendistro-for-elasticsearch/anomaly-detection",
       "pr_number": 84,
       "id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDQwNzkyNjAxMA==",
-      "deep_analysis": false
+      "deep_analysis": true
    },
    "1609": {
       "project": "opendistro-for-elasticsearch/anomaly-detection",
@@ -9927,7 +9927,7 @@
       "project": "openliberty/open-liberty",
       "pr_number": 11328,
       "id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDM5MzEzMzA5NQ==",
-      "deep_analysis": false
+      "deep_analysis": true
    },
    "1656": {
       "project": "openliberty/open-liberty",
@@ -9969,7 +9969,7 @@
       "project": "openmrs/openmrs-core",
       "pr_number": 3215,
       "id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDQyODc3ODk0Mw==",
-      "deep_analysis": false
+      "deep_analysis": true
    },
    "1663": {
       "project": "openmrs/openmrs-core",
@@ -10095,7 +10095,7 @@
       "project": "opennms/opennms",
       "pr_number": 2862,
       "id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDM2NDc4NTMwOA==",
-      "deep_analysis": false
+      "deep_analysis": true
    },
    "1684": {
       "project": "openrefine/openrefine",
@@ -10551,7 +10551,7 @@
       "project": "oracle/weblogic-kubernetes-operator",
       "pr_number": 1911,
       "id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDQ4ODkyNzAxOA==",
-      "deep_analysis": false
+      "deep_analysis": true
    },
    "1760": {
       "project": "oracle/weblogic-kubernetes-operator",
@@ -10569,7 +10569,7 @@
       "project": "oracle/weblogic-kubernetes-operator",
       "pr_number": 1764,
       "id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDQ0NTQ5MTk4Mg==",
-      "deep_analysis": false
+      "deep_analysis": true
    },
    "1763": {
       "project": "oracle/weblogic-kubernetes-operator",
@@ -10887,7 +10887,7 @@
       "project": "patchworkmc/patchwork-api",
       "pr_number": 79,
       "id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDQ0Njc0Mjc0Nw==",
-      "deep_analysis": false
+      "deep_analysis": true
    },
    "1816": {
       "project": "patchworkmc/patchwork-api",
@@ -10923,7 +10923,7 @@
       "project": "patchworkmc/patchwork-api",
       "pr_number": 33,
       "id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDM3MzMxNzA0Mw==",
-      "deep_analysis": false
+      "deep_analysis": true
    },
    "1822": {
       "project": "payara/payara",
@@ -11073,7 +11073,7 @@
       "project": "powsybl/powsybl-core",
       "pr_number": 1461,
       "id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDUyNjg1MTIxMg==",
-      "deep_analysis": false
+      "deep_analysis": true
    },
    "1847": {
       "project": "powsybl/powsybl-core",
@@ -11193,7 +11193,7 @@
       "project": "prebid/prebid-server-java",
       "pr_number": 664,
       "id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDQwNzQ5NTAwMg==",
-      "deep_analysis": false
+      "deep_analysis": true
    },
    "1867": {
       "project": "prebid/prebid-server-java",
@@ -11349,7 +11349,7 @@
       "project": "quarkusio/quarkus",
       "pr_number": 13394,
       "id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDUyNzQ4NDAzMQ==",
-      "deep_analysis": true
+      "deep_analysis": false
    },
    "1893": {
       "project": "quarkusio/quarkus",
@@ -11535,7 +11535,7 @@
       "project": "reactor/reactor-core",
       "pr_number": 2405,
       "id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDQ5ODkxMjk1Nw==",
-      "deep_analysis": false
+      "deep_analysis": true
    },
    "1924": {
       "project": "reactor/reactor-core",
@@ -11649,7 +11649,7 @@
       "project": "resilience4j/resilience4j",
       "pr_number": 1175,
       "id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDQ5Mjk4NDI4OQ==",
-      "deep_analysis": false
+      "deep_analysis": true
    },
    "1943": {
       "project": "resilience4j/resilience4j",
@@ -11661,13 +11661,13 @@
       "project": "resilience4j/resilience4j",
       "pr_number": 1093,
       "id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDQ2OTc1NzcxOA==",
-      "deep_analysis": false
+      "deep_analysis": true
    },
    "1945": {
       "project": "resilience4j/resilience4j",
       "pr_number": 1063,
       "id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDQ1NDE3OTY4Ng==",
-      "deep_analysis": false
+      "deep_analysis": true
    },
    "1946": {
       "project": "resilience4j/resilience4j",
@@ -11739,7 +11739,7 @@
       "project": "ripe-ncc/whois",
       "pr_number": 629,
       "id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDQxNDUzOTIxMA==",
-      "deep_analysis": false
+      "deep_analysis": true
    },
    "1958": {
       "project": "rsksmart/rskj",
@@ -11775,7 +11775,7 @@
       "project": "rsksmart/rskj",
       "pr_number": 1304,
       "id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDQ4NTgzNTI5Ng==",
-      "deep_analysis": false
+      "deep_analysis": true
    },
    "1964": {
       "project": "rsksmart/rskj",
@@ -12123,7 +12123,7 @@
       "project": "skriptlang/skript",
       "pr_number": 3432,
       "id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDQ5OTY5MjIzNQ==",
-      "deep_analysis": false
+      "deep_analysis": true
    },
    "2022": {
       "project": "skriptlang/skript",
@@ -12153,7 +12153,7 @@
       "project": "skriptlang/skript",
       "pr_number": 3173,
       "id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDQ5OTM4NzU4Ng==",
-      "deep_analysis": false
+      "deep_analysis": true
    },
    "2027": {
       "project": "skriptlang/skript",
@@ -12315,7 +12315,7 @@
       "project": "sonarsource/sonar-java",
       "pr_number": 3274,
       "id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDUyNTExMDU3Ng==",
-      "deep_analysis": false
+      "deep_analysis": true
    },
    "2054": {
       "project": "sonarsource/sonar-java",
@@ -12561,7 +12561,7 @@
       "project": "spring-projects/spring-integration",
       "pr_number": 3228,
       "id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDM5OTQ3NjQ5Mw==",
-      "deep_analysis": false
+      "deep_analysis": true
    },
    "2095": {
       "project": "spring-projects/spring-integration",
@@ -12621,7 +12621,7 @@
       "project": "strimzi/strimzi-kafka-operator",
       "pr_number": 2389,
       "id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDQxMzM2NDU1Ng==",
-      "deep_analysis": false
+      "deep_analysis": true
    },
    "2105": {
       "project": "talend/tbd-studio-se",
@@ -12777,7 +12777,7 @@
       "project": "taskana/taskana",
       "pr_number": 910,
       "id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDM3NzY3NjMwNw==",
-      "deep_analysis": false
+      "deep_analysis": true
    },
    "2131": {
       "project": "teammates/teammates",
@@ -12795,7 +12795,7 @@
       "project": "teammates/teammates",
       "pr_number": 10784,
       "id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDUwNjc5MTE2NQ==",
-      "deep_analysis": false
+      "deep_analysis": true
    },
    "2134": {
       "project": "teammates/teammates",
@@ -13023,7 +13023,7 @@
       "project": "telstra/open-kilda",
       "pr_number": 3688,
       "id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDQ3MTQxMDQ4MQ==",
-      "deep_analysis": false
+      "deep_analysis": true
    },
    "2172": {
       "project": "telstra/open-kilda",
@@ -13119,7 +13119,7 @@
       "project": "tensorflow/java",
       "pr_number": 91,
       "id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDQ2MzYxNzQxNA==",
-      "deep_analysis": false
+      "deep_analysis": true
    },
    "2188": {
       "project": "testcontainers/testcontainers-java",
@@ -13209,7 +13209,7 @@
       "project": "thingsboard/thingsboard",
       "pr_number": 2347,
       "id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDM2ODQ5MTY4Nw==",
-      "deep_analysis": false
+      "deep_analysis": true
    },
    "2203": {
       "project": "townyadvanced/towny",
@@ -13269,7 +13269,7 @@
       "project": "trinodb/trino",
       "pr_number": 6137,
       "id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDUzMzM1MDM5MQ==",
-      "deep_analysis": false
+      "deep_analysis": true
    },
    "2213": {
       "project": "trinodb/trino",
@@ -13503,7 +13503,7 @@
       "project": "vaadin/flow",
       "pr_number": 9067,
       "id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDQ5NjUyMjU1NQ==",
-      "deep_analysis": false
+      "deep_analysis": true
    },
    "2252": {
       "project": "vaadin/flow",
@@ -13647,7 +13647,7 @@
       "project": "virtualsatellite/virtualsatellite4-core",
       "pr_number": 594,
       "id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDQyOTkwNDcxOQ==",
-      "deep_analysis": false
+      "deep_analysis": true
    },
    "2276": {
       "project": "virtualsatellite/virtualsatellite4-core",
@@ -14253,7 +14253,7 @@
       "project": "yugabyte/tpcc",
       "pr_number": 36,
       "id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDQ1NDc5MDIzNw==",
-      "deep_analysis": false
+      "deep_analysis": true
    },
    "2377": {
       "project": "yugabyte/tpcc",
@@ -14355,7 +14355,7 @@
       "project": "zowe/api-layer",
       "pr_number": 1025,
       "id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDU0NjY1MjgwMg==",
-      "deep_analysis": false
+      "deep_analysis": true
    },
    "2394": {
       "project": "zowe/api-layer",
